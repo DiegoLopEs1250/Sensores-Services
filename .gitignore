@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos usuario
+*.user
+*.suo
+*.log
+
+# Otros
+*.cache
